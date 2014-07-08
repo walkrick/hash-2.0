@@ -5,7 +5,7 @@
 
 * Clone
 * Create your own repo
-* Connect your cloned version with your new repo (git add remote upstream ....)
+* Connect your cloned version with your new repo (git remote add origin ....)
 * run bundle install
 * git add, git commit, and git push to your repo
 
